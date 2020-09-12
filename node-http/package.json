@@ -1,0 +1,10 @@
+{
+    "name": "node-http",
+    "version": "1.0.0",
+    "description": "NodeHTTP Module Example",
+    "main": "server.js",
+    "script": {
+        "test": "echo \"Error: no test specified\" && exist 1",
+        "start": "node server"
+    }
+}
